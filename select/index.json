@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "115万キロのフィルム",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-07T09:19:53.573245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "115万キロのフィルム",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_115万キロのフィルム_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "115万キロのフィルム",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_115万キロのフィルム_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "115万キロのフィルム feat.こぴ",
+      "artist": "Kobasolo feat. こぴ",
+      "has_synced": true,
+      "path": "select/03_115万キロのフィルム_feat.こぴ_Kobasolo_feat._こぴ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "115万キロのフィルム feat.こぴ",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_115万キロのフィルム_feat.こぴ_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "115万キロのフィルム (ONLINE LIVE 2020 - Arena Travelers -) (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/05_115万キロのフィルム_(ONLINE_LIVE_2020_-_Arena_Travelers_-)_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "115万キロのフィルム (LIVE)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/06_115万キロのフィルム_(LIVE)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "115万キロのフィルム (115만 킬로의 필름)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/07_115万キロのフィルム_(115만_킬로의_필름)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "115万キロのフィルム - 115 million kilometer film",
+      "artist": "Official hige dandism",
+      "has_synced": true,
+      "path": "select/08_115万キロのフィルム_-_115_million_kilometer_film_Official_hige_dandism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "115万キロのフィルム",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_115万キロのフィルム_Official髭男dism.txt"
+    }
+  ]
+}
